@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/satyasiddharthdash/ml/bin/python",
+    "python.linting.flake8Enabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.prospectorEnabled": false,
+    "python.linting.enabled": true
+}
